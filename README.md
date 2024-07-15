@@ -5,3 +5,4 @@
 - Sort the Colors : https://leetcode.com/problems/sort-colors/submissions/1321695573/
 - Remove Duplicates from Sorted Array : https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1321724427/
 - Set Matrix Zeroes : https://leetcode.com/problems/set-matrix-zeroes/submissions/1321745089/
+- Move Zeroes : https://leetcode.com/problems/move-zeroes/submissions/1321749206/
